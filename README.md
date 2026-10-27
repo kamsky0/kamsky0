@@ -25,7 +25,7 @@
 
 | | |
 |---|---|
-| 🧾 **[Mój Paragon](https://github.com/kamsky0)** | Offline expense-tracking app |
+| 🧾 **[Paragon]([https://github.com/kamsky0](https://github.com/kamsky0/paragon))** | Offline expense-tracking app |
 | 🌠 **[KNSA Website](https://github.com/kamsky0)** | New website for the Astronomy Students' Science Club |
 
 <div align="center">
