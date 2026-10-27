@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Cze%C5%9B%C4%87!+Tu+Oliwier+%F0%9F%94%AD;Student+astronomii+%40+UMK+Toru%C5%84;Python+%C2%B7+React+%C2%B7+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Hi!+I%27m+Oliwier+%F0%9F%94%AD;Astronomy+student+%40+UMK+Toru%C5%84;Python+%C2%B7+React+%C2%B7+Node.js" alt="Typing SVG" />
 
 </div>
 
-### 🌌 O mnie
+### 🌌 About me
 
-- 🔭 Studiuję astronomię na **UMK w Toruniu**
-- 🪐 Działam w **KNSA** – Kole Naukowym Studentów Astronomii
-- 🐍 Gwiazdy liczę w Pythonie, strony robię w React + Node.js
+- 🔭 Studying astronomy at **Nicolaus Copernicus University** in Toruń
+- 🪐 Member of **KNSA** – the Astronomy Students' Science Club
+- 🐍 I crunch stars in Python and build websites with React + Node.js
 - 📫 o.jantomczak@gmail.com
 
-### 🛠️ Narzędzia
+### 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-1e1b2e?style=flat-square&logo=python&logoColor=a78bfa)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1b2e?style=flat-square&logo=javascript&logoColor=a78bfa)
@@ -21,12 +21,12 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-1e1b2e?style=flat-square&logo=latex&logoColor=a78bfa)
 ![Linux](https://img.shields.io/badge/Linux-1e1b2e?style=flat-square&logo=linux&logoColor=a78bfa)
 
-### 🚀 Projekty
+### 🚀 Projects
 
 | | |
 |---|---|
-| 🧾 **[Mój Paragon](https://github.com/kamsky0)** | Offline'owa aplikacja do śledzenia wydatków |
-| 🌠 **[Strona KNSA](https://github.com/kamsky0)** | Nowa strona Koła Naukowego Studentów Astronomii |
+| 🧾 **[Mój Paragon](https://github.com/kamsky0)** | Offline expense-tracking app |
+| 🌠 **[KNSA Website](https://github.com/kamsky0)** | New website for the Astronomy Students' Science Club |
 
 <div align="center">
 
